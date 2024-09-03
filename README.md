@@ -78,7 +78,7 @@ This program is written in C and should be compiled with a standard C compiler. 
 To compile the program, use the following command:
 
 ```bash
-gcc -o cp cp.c
+gcc mycp.c -o cp
 ```
 
 This will create an executable named `cp`.
